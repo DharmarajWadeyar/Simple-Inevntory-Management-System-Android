@@ -14,9 +14,7 @@ The Simple Inventory Management System is designed to digitize inventory managem
 
 ## Installation Steps
 1. Download and install Android Studio from the official website (for emulator setup).
-2. Download the project files from the provided Google Drive links:
-   - Project Document
-   - Project Application
+2. Download the project files from the provided Google Drive links: [Project Document](https://drive.google.com/file/d/147zpvqeiM8KBw57RgTE4pZHgY1HWCUCB/view?usp=sharing) & [Project App](https://drive.google.com/file/d/1v8YY9AmB-FUar7DKzH2EyWrERC2KdgG0/view?usp=sharing)
 3. Extract the downloaded files to your local machine.
 4. Open Android Studio and set up an Android emulator.
 5. Install the app on the emulator or your Android device.
